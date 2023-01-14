@@ -1,0 +1,13 @@
+baseURL: https://blog.badjorv.com/
+languageCode: en-us
+title: Yevhen's blog
+
+theme: "PaperMod"
+
+
+menu:
+  main:
+    - identifier: archive
+      name: Archive
+      url: /archives/
+      weight: 10
