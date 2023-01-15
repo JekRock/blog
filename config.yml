@@ -11,3 +11,14 @@ menu:
       name: Archive
       url: /archives/
       weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+
+
+params:
+    homeInfoParams:
+        Title: Hi there!
+        Content: This is my personal blog about Christianity, life, tech, and everything else that comes to my mind.
+    ShowToc: true
