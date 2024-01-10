@@ -44,6 +44,6 @@ I opened my heart to Jesus, I repented of my sins, and I declared Jesus as my LO
 
 My life has changed since then. God has changed my life, and my perception, He changed my view on what is really important in my life. Who is important.
 
-I'm still learning a lot about God through His Word and through people like you. And I'm so grateful that He changed my life, turned me to Him, and showed me who He is despite who I was and who I am!
+I'm still learning a lot about God through His Word and through the people He surrounded me with. And I'm so grateful that He changed my life, turned me to Him, and showed me who He is despite who I was and who I am!
 
 I want to serve Him all my life and use everything He gave me to do that.
